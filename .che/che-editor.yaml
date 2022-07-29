@@ -3,4 +3,4 @@ reference: https://raw.githubusercontent.com/eclipse-che/che-plugin-registry/mai
 override:
   containers:
     - name: che-code-injector
-      image: 'image-registry.openshift-image-registry.svc:5000/developer-devspaces/che-incubator-che-code@sha256:cb67f482851d61ae8cf68d025ab9d61cdf4074712e82f6e280112881a7089ff4'
+      image: 'image-registry.openshift-image-registry.svc:5000/developer-devspaces/che-incubator-che-code@sha256:dfdfa2da23a1bb6c163c41ee392e15a0e7a7bf7c5e76a4852532982404e26914'
