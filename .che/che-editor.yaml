@@ -2,5 +2,5 @@ id: che-incubator/che-code/insiders
 reference: https://raw.githubusercontent.com/eclipse-che/che-plugin-registry/main/che-editors.yaml
 override:
   preferences:
-    extensions.autoCheckUpdates: true
+    extensions.autoCheckUpdates: false
     extensions.autoUpdate: false
